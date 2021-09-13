@@ -38,7 +38,7 @@ The analysis of the election show that:
     
     -Diana DeGette with 73.8% of the vote and 272,892 vptes
  
- resources/election_results.png
+ ![election_results](resources/election_results.png)
  
  -The counties in which the election took place were:
  
