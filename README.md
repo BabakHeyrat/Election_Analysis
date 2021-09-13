@@ -64,5 +64,5 @@ The analysis of the election show that:
   
   ![variable](/Resources/variable.png)
   
-  As you can see in the above screenshot, the file_to_load variable can be redefined to reference any other data set; guaranteeing ease of use in swapping in and out of voting results from future elections. Granted, the csv file should be formatted in a manner in which the various rows function still refer to the same headers. 
+  As you can see in the above screenshot, the file_to_load variable can be redefined to reference any other data set; guaranteeing ease of use in swapping in and out voting results from future elections. Granted, the csv file should be formatted in a manner in which the various rows functions still refer to the same headers. 
  
