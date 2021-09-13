@@ -57,12 +57,12 @@ The analysis of the election show that:
  
     -Denver, with 82.8% of the vote (306,055 votes). 
     
-  resources/counties.png
+  ![counties](/Resources/counties.png
   
   ## Election-Audit Summary
   This election can be used over again for different data sets by simply swaping out the refrenced data set. 
   
-  resources/variable.png
+  ![variable](/Resources/variable.png)
   
   As you can see in the above, the file_to_load variable can be redefined to reference any other data set; guaranteeing ease of use in swapping in and out of voting results from future elections. Granted, the csv file should be formatted in a manner in which the various rows function still refer to the same headers. 
  
